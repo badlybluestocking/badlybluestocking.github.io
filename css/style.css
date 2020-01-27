@@ -1,5 +1,5 @@
 body {
-  background-color: #c67e0f;
+  background-image: linear-gradient(90deg, rgb(186, 116, 7), rgb(186, 116, 7) 10%, rgba(186, 116, 7, 0.5) 15%, rgba(186, 116, 7, 0.5) 85%, rgb(186, 116, 7) 90% );
   font-family: Helvetica;
   color: white;
   font-size:x-large;
