@@ -1,4 +1,5 @@
 body {
+  background-colour: black;
 }
 
 a {
@@ -10,7 +11,7 @@ a {
 
 p {
   font-family: Helvetica;
-  color: rgb(42, 55, 69);
+  color: white;
   font-size: 1.35em;
   line-height: 130%;
 }
