@@ -1,11 +1,21 @@
 # badlybluestocking
 Hi Freya, this will be your website once it is up and running! :D
 
-Okay, now the website is functioning, so it is now possible for you to start writing and making use of it.
+Okay, now the website is functioning, so it is now possible for you to start writing x
+
+## 0: Using this guide
+
+Unfortunately, when I was writing this guide, I didn't realise that all the very important symbols I was using wouldn't actually show up. This sucks.
+So the very first thing to do it to open this guide in edit mode, so you can read the very important symbols, or else this guide is literally useless.
+
+In the top-right corner of this guide, there is a pencil icon. Click it.
+You should now be on a page where you can still read the guide... but it looks more code-y and crappy.
+Fortunately, it has all the important symbols you need in order to understand what to do.
+Enjoy!
 
 ## 1: Writing a blog post
 
-### The first, and easiest thing to do is to write a blog post (just text).
+The first, and easiest thing to do is to write a blog post (just text).
 
 Click the link in the list above: index.html (in a new tab, so you can keep referring to this).
 All of the code for your website's main (and currently only) page will then appear in a big white box.
