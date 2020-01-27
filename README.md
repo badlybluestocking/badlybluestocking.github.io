@@ -79,7 +79,7 @@ As much as overuse of divs annoy me, they are a very useful tool. They are basic
 So on their own, when you just have these individual "post" boxes lined up on the page (in a sequence of individual blog posts), they are really useful. But for the love of God, please don't do what James does and put divs inside divs inside divs inside.... - it is the internet's equivalent of pass the parcel - boxes within boxes within boxes.
 
 To make a new post, copy the first entire div element (an entire post, including <div class="post"> and </div>), and also copy the <br><br> underneath it. The <br><br> here is to separate the posts from fusing with each other.
-Simply paste what you copied above the first post (and below the <a href=....>). 
+Simply paste what you copied above the first post (and below the <a href=....></a>). 
   
 Yay! You now have a 4th post!
 Just delete everything within the paragraph and get writing! x
