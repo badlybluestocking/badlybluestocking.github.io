@@ -1,0 +1,32 @@
+body {
+}
+
+a {
+  border-bottom-style: solid;
+  border-color: rgba(105, 254, 50, 0.5);
+  color: rgb(42, 55, 69);
+  font-style: italic;
+}
+
+p {
+  font-family: Helvetica;
+  color: rgb(42, 55, 69);
+  font-size: 1.35em;
+  line-height: 130%;
+}
+
+strong {
+  color: rgba(105,254,50,1); 
+}
+
+#center {
+  text-align: center;
+}
+
+#hidden {
+  visibility: hidden;
+}
+
+#hide {
+  display: none;
+}
