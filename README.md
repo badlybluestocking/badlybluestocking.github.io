@@ -5,14 +5,14 @@ Okay, now the website is functioning, so it is now possible for you to start wri
 
 ## 1: Writing a blog post
 
-The first, and easiest thing to do is to write a blog post (just text).
+### The first, and easiest thing to do is to write a blog post (just text).
 
 Click the link in the list above: index.html (in a new tab, so you can keep referring to this).
 All of the code for your website's main (and currently only) page will then appear in a big white box.
 At the top-right corner of the box there are 3 icons, including a pencil. Click on the pencil.
 Now you are ready to edit!
 
-Scroll down to the first sequence of lorem ipsums. You can see that I've written "#<p>", "this is an example of a post", many "lorem ipsum"s and then "I hope this works", followed by "#</p>".
+Scroll down to the first sequence of lorem ipsums. You can see that I've written "<p>", "this is an example of a post", many "lorem ipsum"s and then "I hope this works", followed by "#</p>".
 #<p> means the start of the paragraph, and #</p> means the end of the paragraph. Anything between them comes up as text.
 As a more general note, #<x> is the start of x and #</x> is the end, where x can be anything. x is most likely to be "p", "div", "center" etc.
 
