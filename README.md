@@ -3,6 +3,8 @@ Hi Freya, this will be your website once it is up and running! :D
 
 Okay, now the website is functioning, so it is now possible for you to start writing x
 
+This guide is also available under the wiki tab.
+
 ## 0: Using this guide
 
 Unfortunately, when I was writing this guide, I didn't realise that all the very important symbols I was using wouldn't actually show up. This sucks.
@@ -12,6 +14,9 @@ In the top-right corner of this guide, there is a pencil icon. Click it.
 You should now be on a page where you can still read the guide... but it looks more code-y and crappy.
 Fortunately, it has all the important symbols you need in order to understand what to do.
 Enjoy!
+
+If you are reading this on the wiki, then click on the edit button in the top-right corner instead. 
+The same page will appear.
 
 ## 1: Writing a blog post
 
