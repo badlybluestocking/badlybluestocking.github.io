@@ -67,4 +67,5 @@ p.xxlarge {
 p#date {
   font-size: small;
   color: #9B0000;
+  align:right;
 }
