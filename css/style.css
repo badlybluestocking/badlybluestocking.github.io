@@ -17,7 +17,10 @@ a {
   color:black;
   font-size: large;
   width: 60%;
-  padding: 10px 10px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 5px;
   background: rgba(255,255,255,0.6);
   border:none;
   border-radius:10px;}
