@@ -63,3 +63,8 @@ p.xxlarge {
   width: 10%;
   align:left;
 }
+
+p#date {
+  font-size: small;
+  color: #9B0000;
+}
