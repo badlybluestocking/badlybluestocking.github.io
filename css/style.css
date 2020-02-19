@@ -93,9 +93,9 @@ button.next:hover, button.prev:hover{
 }
 
 button.next:hover{
-  transform:translateX(8px);
+  transform:translateX(12px);
 }
 
 button.prev:hover{
-  transform:translateX(-8px);
+  transform:translateX(-12px);
 }
